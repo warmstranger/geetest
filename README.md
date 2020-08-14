@@ -14,7 +14,7 @@
 
 ## demo: ##
 + ~~[online test](http://experiment.imwork.net/gee/test.aspx)~~
-Last night someone attacked the demo server, resulting in DoS, and now the demo link can not be opened for exhausted traffic. (9/3/16)
+Last night someone attacked the demo server, 修改一下哈哈哈resulting in DoS, and now the demo link can not be opened for exhausted traffic. (9/3/16)
 + [demo.gif](/demo/geetest.gif)
 
 ## contact:  ##
